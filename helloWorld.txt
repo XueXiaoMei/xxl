@@ -1,1 +1,11 @@
 helloWorld
+helloWorld
+public static void main(){
+System.out.println("123:");
+}
+
+public String getStr(){
+  System.out.println(1);
+}
+
+aaaaa
